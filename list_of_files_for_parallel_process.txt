@@ -1,0 +1,6 @@
+cat.txt
+ls.txt
+man.txt
+sed.txt
+sort.txt
+uniq.txt
